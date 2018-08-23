@@ -11,3 +11,5 @@ Name: Bo Zhao Mo
 
 
 Please use -pthread flag when compiling clients and server
+
+*This is the copy for CS454 A3 assignent!!
